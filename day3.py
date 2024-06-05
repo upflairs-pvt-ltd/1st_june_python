@@ -73,18 +73,24 @@
 # student_name.pop()
 # print(student_name)
 
-student_name = ['A','B','C','D']
+# student_name = ['A','B','C','D']
 # item insert  "G"
-student_name.insert(2,"G")  # at any position insert
-print(student_name)
+# student_name.insert(2,"G")  # at any position insert
+# print(student_name)
 
 
 # remove 
-st= 'upflairs'
+# st= 'upflairs'
 
 # st.isdigit()
 # st.isalnum()
 # st.endswith()
 # st.startswith()
-# remove item from list at any position 
+# remove item from list at any position
+# student_name = ['A','B','C','D'] 
+# del student_name[1]
+# student_name.remove('A')
+# print(student_name)
+
+
 
